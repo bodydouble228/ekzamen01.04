@@ -26,10 +26,11 @@ number(только нечётные). Если нашёл делитель — 
 
 
 using System;
+
 class Program
     {
-        static bool IsPrime(int number)
-        {
+    static bool IsPrime(int number)
+    {
             if (number <= 1)
                 return false;
             if (number == 2)
