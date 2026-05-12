@@ -42,10 +42,10 @@ class Program
                 return false;
         }
 
-        return true;
-        }
+ return true;
+  }
 
-    static void Main(string[] args)
+ static void Main(string[] args)
     {
         Console.WriteLine("Простые числа от 2 до 100:");
         for (int i = 2; i <= 100; i++)
