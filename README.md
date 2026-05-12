@@ -25,9 +25,8 @@ number(только нечётные). Если нашёл делитель — 
 КОД:
 
 
-   using System;
-
- class Program
+using System;
+class Program
     {
         static bool IsPrime(int number)
         {
